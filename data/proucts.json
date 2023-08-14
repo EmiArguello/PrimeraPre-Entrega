@@ -1,0 +1,13 @@
+[
+    {
+      "title": "COD 445",
+      "description": "Chocolate amargo",
+      "price": 660,
+      "thumbnail": "",
+      "code": "ARCM43",
+      "stock": 64,
+      "category": "shooter",
+      "status": true,
+      "id": 1
+    }
+  ]
